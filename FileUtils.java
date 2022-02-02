@@ -1,5 +1,3 @@
-package com.videotrimmer.library.utils;
-
 import android.annotation.SuppressLint;
 import android.content.ContentResolver;
 import android.content.ContentUris;
